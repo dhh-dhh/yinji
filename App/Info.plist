@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleDisplayName</key><string>隐记</string>
+<key>CFBundleIdentifier</key><string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+<key>CFBundleExecutable</key><string>$(EXECUTABLE_NAME)</string>
+<key>CFBundleName</key><string>$(PRODUCT_NAME)</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.0</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>WKApplication</key><true/>
+<key>WKCompanionAppBundleIdentifier</key><string>com.personal.yinji</string>
+<key>WKRunsIndependentlyOfCompanionApp</key><true/>
+<key>NSMotionUsageDescription</key><string>用于在你主动开始记录后采集手腕运动，计算次数与节奏。</string>
+<key>WKBackgroundModes</key><array><string>workout-processing</string></array>
+<key>NSHealthShareUsageDescription</key><string>读取本次运动的心率，用于实时显示、训练心率同步和平均/最高心率摘要。</string>
+<key>NSHealthUpdateUsageDescription</key><string>允许开启体能训练会话，使记录在落腕和熄屏后继续。不会自动保存训练到健康，请在 iPhone 中逐条选择同步。</string>
+</dict></plist>

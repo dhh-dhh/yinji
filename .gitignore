@@ -1,0 +1,18 @@
+.build/
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+
+# Local credentials, signing assets, and personal recordings
+.env
+.env.*
+*.p12
+*.p8
+*.mobileprovision
+*.cer
+sessions.json
+motion-*.csv
+raw-*.csv
+Transfers/
