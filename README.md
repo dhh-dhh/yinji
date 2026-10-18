@@ -164,7 +164,7 @@ swift test
 
 实际集成 [TheFern2/RepMotion](https://github.com/TheFern2/RepMotion) 的 `RepMotionCore` 和 `RepMotionDetection`，固定提交 `3f125413fd6864c5dd3ed0458dc74eebb083b2bc`，遵循 MIT 授权。上游授权文件完整保留在 [Vendor/RepMotion/LICENSE](Vendor/RepMotion/LICENSE)，更多说明见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 
-本仓库其他源码尚未单独指定开源许可证。仓库用于保存和继续开发当前个人项目，第三方代码仍遵循各自授权。
+本项目采用 [MIT 许可证](LICENSE) 开源，允许使用、修改、分发和商用，使用时须保留版权及许可声明。软件按原样提供，不作任何担保。第三方代码仍遵循各自授权。
 
 ---
 
